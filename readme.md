@@ -1,7 +1,7 @@
 ## Installation
 
 1. clone this repository
-2. In terminal install the required packages by entering "pip install -r requirements.txt"
+2. In the terminal, install the required packages by entering "pip install -r requirements.txt"
 
 ## How to run
 
